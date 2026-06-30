@@ -1,10 +1,14 @@
+
 #привет
 // tank.h
 #pragma once
-#include <string>
+#include <string
 #include <cmath>
 
 enum class TankType {
+    "configurations": [
+    
+    ]
     Vertical,
     Horizontal
 };
